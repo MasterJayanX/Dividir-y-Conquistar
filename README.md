@@ -8,3 +8,5 @@ Los archivos de este repositorio están organizados mediante las siguientes carp
 - Ordenamiento: contiene los archivos con los algoritmos de ordenamiento
 - Matrices: contiene los archivos con los algoritmos de multiplicación de matrices
 
+### Importante
+Los datasets que se usaron para probar los algoritmos están en el archivo comprimido datasets.zip, el cual se encuentra subido en la sección de Datasets en Releases.
